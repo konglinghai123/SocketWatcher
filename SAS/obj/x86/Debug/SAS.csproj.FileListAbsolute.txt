@@ -1,0 +1,253 @@
+C:\Users\DY\Desktop\督导排课\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\DY\Desktop\督导排课\SAS\bin\Debug\SAS.exe
+C:\Users\DY\Desktop\督导排课\SAS\bin\Debug\SAS.pdb
+C:\Users\DY\Desktop\督导排课\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmAbout.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmAnPai.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmLog.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmPlacement.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmPlan.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmPlanRead.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmResult.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmSupervisor.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Forms.frmTeacher.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.exe
+C:\Users\DY\Desktop\督导排课\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.exe
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\DY\Desktop\督导排课84\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\DY\Desktop\督导排课84\SAS\bin\Debug\SAS.exe
+C:\Users\DY\Desktop\督导排课84\SAS\bin\Debug\SAS.pdb
+C:\Users\DY\Desktop\督导排课84\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmAbout.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmAnPai.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmLog.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlacement.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlan.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlanRead.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmResult.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSupervisor.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmTeacher.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\DY\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.exe
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\bin\Debug\SAS.exe
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\bin\Debug\SAS.pdb
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmAbout.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmAnPai.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmLog.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlacement.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlan.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlanRead.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmResult.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSupervisor.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmTeacher.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.check.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.Form2.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.Form3.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSearch.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmClasses.resources
+C:\Users\DY\Desktop\督导杂项\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlanSearch.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\督导排课84\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\Administrator\Desktop\督导排课84\SAS\bin\Debug\SAS.exe
+C:\Users\Administrator\Desktop\督导排课84\SAS\bin\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\督导排课84\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.Form3.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmAbout.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmAnPai.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmClasses.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmLog.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlacement.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlan.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlanRead.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmPlanSearch.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmResult.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSearch.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSupervisor.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmTeacher.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSpareTime.resources
+C:\Users\Administrator\Desktop\督导排课84\SAS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Desktop\督导排课84\SAS\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmCamera.resources
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\bin\Debug\SAS.exe
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\bin\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Administrator\Desktop\督导排课84\督导排课84\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.exe
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.pdb
+F:\督导排课84\督导排课84\SAS\bin\Debug\Resources\DataBase.mdb
+F:\督导排课84\督导排课84\SAS\bin\Debug\SAS.exe
+F:\督导排课84\督导排课84\SAS\bin\Debug\SAS.pdb
+F:\督导排课84\督导排课84\SAS\bin\Debug\DevComponents.DotNetBar2.dll
+F:\督导排课84\督导排课84\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.frmMain.resources
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\督导排课84\督导排课84\SAS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\bin\Debug\SAS.exe
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\bin\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+C:\Users\Administrator\Desktop\网络监控\督导排课84\督导排课84\SAS\bin\Debug\SAS.exe.config
+C:\Users\Administrator\Desktop\网络监控\SAS\bin\Debug\SAS.exe.config
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\网络监控\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\Administrator\Desktop\网络监控\SAS\bin\Debug\SAS.exe
+C:\Users\Administrator\Desktop\网络监控\SAS\bin\Debug\SAS.pdb
+C:\Users\Administrator\Desktop\网络监控\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\Administrator\Desktop\网络监控\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+E:\KXF\网络监控\SAS\bin\Debug\SAS.exe.config
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.exe
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.pdb
+E:\KXF\网络监控\SAS\bin\Debug\Resources\DataBase.mdb
+E:\KXF\网络监控\SAS\bin\Debug\SAS.exe
+E:\KXF\网络监控\SAS\bin\Debug\SAS.pdb
+E:\KXF\网络监控\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\KXF\网络监控\SAS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.frmMain.resources
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+E:\KXF\网络监控\SAS\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\KXF\网络监控\SAS\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\KXF\网络监控\SAS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\KXF\网络监控\SAS\bin\Debug\office.dll
+E:\KXF\网络监控\SAS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\KXF\网络监控\SAS\bin\Debug\office.xml
+E:\KXF\网络监控\SAS\obj\x86\Debug\Interop.VBIDE.dll
+E:\KXF\网络监控\SAS\obj\x86\Debug\SAS.csproj.ResolveComReference.cache
+F:\QQK21\网络监控\SAS\bin\Debug\SAS.exe.config
+F:\QQK21\网络监控\SAS\obj\x86\Debug\Interop.VBIDE.dll
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.csproj.ResolveComReference.cache
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.exe
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.pdb
+F:\QQK21\网络监控\SAS\bin\Debug\Resources\DataBase.mdb
+F:\QQK21\网络监控\SAS\bin\Debug\SAS.exe.manifest
+F:\QQK21\网络监控\SAS\bin\Debug\SAS.application
+F:\QQK21\网络监控\SAS\bin\Debug\SAS.exe
+F:\QQK21\网络监控\SAS\bin\Debug\SAS.pdb
+F:\QQK21\网络监控\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\QQK21\网络监控\SAS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\QQK21\网络监控\SAS\bin\Debug\office.dll
+F:\QQK21\网络监控\SAS\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\QQK21\网络监控\SAS\bin\Debug\office.xml
+F:\QQK21\网络监控\SAS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.frmMain.resources
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+F:\QQK21\网络监控\SAS\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\QQK21\网络监控\SAS\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.exe.manifest
+F:\QQK21\网络监控\SAS\obj\x86\Debug\SAS.application
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\SAS.exe.config
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\SAS.exe.manifest
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\SAS.application
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\SAS.exe
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\SAS.pdb
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\bin\Debug\stdole.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.exe.manifest
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)\SAS\obj\x86\Debug\SAS.application
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.exe.config
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\Interop.VBIDE.dll
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.csproj.ResolveComReference.cache
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.pdb
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.frmMain.resources
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\Resources\DataBase.mdb
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.exe.manifest
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.application
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.exe
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.pdb
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\office.dll
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\bin\Debug\office.xml
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.exe.manifest
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.application
+D:\My Documents\Tencent Files\1615877385\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.exe.config
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.exe
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.pdb
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\Resources\DataBase.mdb
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.exe.manifest
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.application
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.exe
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\SAS.pdb
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\bin\Debug\stdole.dll
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.Forms.frmSetting.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.Forms.Logs.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.frmMain.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.exe.manifest
+C:\Users\Administrator\Documents\Tencent Files\823894716\FileRecv\网络监控(2)(1)\SAS\obj\x86\Debug\SAS.application

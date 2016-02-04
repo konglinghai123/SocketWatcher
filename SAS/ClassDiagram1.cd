@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SAS.ClassSet.Common.Common" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAYAAAAAAAAAAABAAAQAAAAAgACAAgAAAAAA=</HashCode>
+      <FileName>ClassSet\Common\Common.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.Client" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQSAwQCAGsQQAFEiAAAEQhIAAAEAAAAIEDCgAABACA=</HashCode>
+      <FileName>ClassSet\FunctionTools\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.ExcelHelper" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ClassSet\FunctionTools\ExcelHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.HandleCommand" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAA=</HashCode>
+      <FileName>ClassSet\FunctionTools\HandleCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.Insert2DataBase" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassSet\FunctionTools\Insert2DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.Server" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAQIIAAAAAAAAAgAAAAAAAAACAAAIAAAgAAA=</HashCode>
+      <FileName>ClassSet\FunctionTools\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.SqlHelper" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEBAAQAAAACAAAACAQAAUAQAEQDAAAUAAiBAAIA=</HashCode>
+      <FileName>ClassSet\FunctionTools\SqlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.FunctionTools.UIShow" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAggAAAAAAAABAQAAAQBAAAAAAAAA=</HashCode>
+      <FileName>ClassSet\FunctionTools\UIShow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.MemberInfo.ChangeDataInfo" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAQAAAAUAAA=</HashCode>
+      <FileName>ClassSet\MemberInfo\ChangeDataInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.MemberInfo.ClientInfo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAgAAAAIAA=</HashCode>
+      <FileName>ClassSet\MemberInfo\ClientInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.MemberInfo.ConfigInfo" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgAAAgIgAAIAIEBCgABAYIAAACAAQAAAAMAAA=</HashCode>
+      <FileName>ClassSet\MemberInfo\ConfigInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.MemberInfo.MedicineInfo" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAIBAAgCAQAgAAAAIAA=</HashCode>
+      <FileName>ClassSet\MemberInfo\MedicineInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.MemberInfo.MessageInfo" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAAEAAAAAAAAAAAAAAAAAAAIBAAACAQAAAAAAAQA=</HashCode>
+      <FileName>ClassSet\MemberInfo\MessageInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.ClassSet.MemberInfo.SelectionInfo" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARABAAEABQAAAAAAQAABAGAAAcAgAADBAQACBQEQAg=</HashCode>
+      <FileName>ClassSet\MemberInfo\SelectionInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.Forms.frmSetting" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAQCCAAlAQAgSAAADiA8A4AggAkHAMAIAAAAw=</HashCode>
+      <FileName>Forms\frmSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.Forms.Logs" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABQCAgABAQAASAAADiA8A4AAAAgHAIAIAAAAQ=</HashCode>
+      <FileName>Forms\Logs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.frmMain" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cCQIAgEB2TBRADfIoNeAwpr/K+F7AUQyGHSPZqOAT88=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.Program" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.WoDeWenJian" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEBBAgAAAAAEAQAAAAgAgAAAAACAAQAAAIAAAA=</HashCode>
+      <FileName>WoDeWenJian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.Properties.Resources" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SAS.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
